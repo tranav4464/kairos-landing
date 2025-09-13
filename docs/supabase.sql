@@ -45,3 +45,4 @@ alter table public.live_stats enable row level security;
 
 
 
+
